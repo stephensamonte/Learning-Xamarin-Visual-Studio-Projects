@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.xamarin.xamarincrm" android:installLocation="auto" android:versionName="2.1.1" android:versionCode="211">
+	<uses-sdk android:minSdkVersion="17" />
+	<application android:label="Xamarin CRM" android:icon="@drawable/icon" android:theme="@style/XamarinCRMTheme">
+		<!-- 
+			In ~/Resources/values/api-keys.xml, you need: 
+
+				<resources>
+					<string name="GoogleMapsKey">[Your Google Maps API Android key]</string>
+				</resources>
+
+			Building the Android project places a template api-keys.xml into the ~/Resources/values folder if one does not already exist.
+
+			See here for more info: 
+				https://developer.xamarin.com/guides/android/platform_features/maps_and_location/maps/obtaining_a_google_maps_api_key/
+		-->
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="@string/GoogleMapsKey" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</application>
+	<uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+	<!-- Google Maps for Android v2 will cache map tiles on external storage -->
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.CALL_PHONE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.BATTERY_STATS" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.READ_LOGS" />
+</manifest>

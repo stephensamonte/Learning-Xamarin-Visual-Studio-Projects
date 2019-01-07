@@ -1,0 +1,2 @@
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\FreeTimeApplication\FreeTimeApplication.csproj;neutral
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\UWP\FreeTimeApplication.UWP.csproj;x86

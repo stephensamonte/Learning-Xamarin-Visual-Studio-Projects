@@ -1,0 +1,12 @@
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhone\Debug\_2017._10._27_CrossPlatform1.iOS.exe
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhone\Debug\_2017._10._27_CrossPlatform1.iOS.pdb
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhone\Debug\_2017._10._27_CrossPlatform1.dll
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhone\Debug\_2017._10._27_CrossPlatform1.pdb
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhone\Debug\_2017._10._27_CrossPlatform1.dll.mdb
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhone\Debug\optimized\
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhone\Debug\_2017._10._27_CrossPlatform1.iOS.csproj.CoreCompileInputs.cache
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhone\Debug\_2017._10._27_CrossPlatform1.iOS.exe
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhone\Debug\_2017._10._27_CrossPlatform1.iOS.pdb

@@ -1,0 +1,2 @@
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp.UWP\MyFirstFormsApp.UWP.csproj;x86
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp.csproj;neutral

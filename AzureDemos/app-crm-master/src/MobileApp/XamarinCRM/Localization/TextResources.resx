@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+
+
+	<data name="MainTabs_Sales" xml:space="preserve">
+    	<value>Sales</value>
+	</data>
+	<data name="MainTabs_Customers" xml:space="preserve">
+    	<value>Customers</value>
+	</data>
+	<data name="MainTabs_Products" xml:space="preserve">
+    	<value>Products</value>
+	</data>
+	<data name="MainTabs_About" xml:space="preserve">
+    	<value>About</value>
+	</data>
+
+
+	<data name="Splash_UsernameTitleLabel" xml:space="preserve">
+    	<value>Username:</value>
+	</data>
+	<data name="Splash_PasswordTitleLabel" xml:space="preserve">
+    	<value>Password:</value>
+	</data>
+	<data name="Splash_SignIn" xml:space="preserve">
+    	<value>SIGN IN</value>
+	</data>
+	<data name="Splash_SkipSignIn" xml:space="preserve">
+    	<value>SKIP SIGN IN (demo)</value>
+	</data>
+	<data name="Splash_Title" xml:space="preserve">
+    	<value>Xamarin CRM</value>
+	</data>
+
+
+	<data name="Save" xml:space="preserve">
+    	<value>Save</value>
+	</data>
+	<data name="Cancel" xml:space="preserve">
+    	<value>Cancel</value>
+	</data>
+	<data name="Close" xml:space="preserve">
+    	<value>Close</value>
+	</data>
+	<data name="Exit" xml:space="preserve">
+    	<value>Exit</value>
+	</data>
+	<data name="Exit_and_Discard" xml:space="preserve">
+    	<value>Exit and Discard</value>
+	</data>
+	<data name="Details" xml:space="preserve">
+    	<value>Details</value>
+	</data>
+	<data name="Contact" xml:space="preserve">
+    	<value>Contact</value>
+	</data>
+	<data name="Back" xml:space="preserve">
+    	<value>Back</value>
+	</data>
+	<data name="Phone" xml:space="preserve">
+    	<value>Phone</value>
+	</data>
+	<data name="Get_Directions" xml:space="preserve">
+    	<value>Get Directions</value>
+	</data>
+	<data name="Leave_Application" xml:space="preserve">
+    	<value>Leave Application?</value>
+	</data>
+
+
+	<data name="NetworkConnection_Alert_Title" xml:space="preserve">
+    	<value>Not Connected</value>
+	</data>
+	<data name="NetworkConnection_Alert_Message" xml:space="preserve">
+    	<value>This action requires access to remote data, but you don't seem to currently have a network connnection. Check your connection and try again.</value>
+	</data>
+	<data name="NetworkConnection_Alert_Confirm" xml:space="preserve">
+    	<value>OK</value>
+	</data>
+
+
+	<data name="NoPosition_Alert_Title" xml:space="preserve">
+    	<value>Address Not Found</value>
+	</data>
+	<data name="NoPosition_Alert_Message" xml:space="preserve">
+    	<value>Could not find GPS coordinates for address</value>
+	</data>
+	<data name="NoPosition_Alert_Confirm" xml:space="preserve">
+    	<value>OK</value>
+	</data>
+
+
+	<data name="Leads_LeadListHeaderTitle" xml:space="preserve">
+    	<value>Leads</value>
+	</data>
+	<data name="Leads_NewLead" xml:space="preserve">
+    	<value>New Lead</value>
+	</data>
+	<data name="Leads_EditLead" xml:space="preserve">
+    	<value>Edit Lead</value>
+	</data>
+	<data name="Leads_SaveConfirmTitle" xml:space="preserve">
+    	<value>Save?</value>
+	</data>
+	<data name="Leads_SaveConfirmDescription" xml:space="preserve">
+    	<value>Would you like to save changes to this lead?</value>
+	</data>
+	<data name="Leads_ExitConfirmTitle" xml:space="preserve">
+    	<value>Exit and Discard?</value>
+	</data>
+	<data name="Leads_ExitConfirmDescription" xml:space="preserve">
+    	<value>Would you like to exit and discard changes to this lead?</value>
+	</data>
+	<data name="Leads_LeadDetail_OpportunityHeading" xml:space="preserve">
+    	<value>Opportunity</value>
+	</data>
+	<data name="Leads_LeadDetail_CompanyName" xml:space="preserve">
+    	<value>Company</value>
+	</data>
+	<data name="Leads_LeadDetail_CompanyNamePlaceholder" xml:space="preserve">
+    	<value>Company Name</value>
+	</data>
+	<data name="Leads_LeadDetail_Industry" xml:space="preserve">
+    	<value>Industry</value>
+	</data>
+	<data name="Leads_LeadDetail_OpportunitySize" xml:space="preserve">
+    	<value>Size</value>
+	</data>
+	<data name="Leads_LeadDetail_OpportunitySizePlaceholder" xml:space="preserve">
+    	<value>Enter Dollar Amount</value>
+	</data>
+	<data name="Leads_LeadDetail_OpportunityStage" xml:space="preserve">
+    	<value>Stage</value>
+	</data>
+	<data name="Leads_LeadDetail_SaveButtonText" xml:space="preserve">
+    	<value>Done</value>
+	</data>
+	<data name="Leads_LeadContactDetail_Role" xml:space="preserve">
+    	<value>Role</value>
+	</data>
+	<data name="Leads_LeadContactDetail_FirstName" xml:space="preserve">
+    	<value>First Name</value>
+	</data>
+	<data name="Leads_LeadContactDetail_LastName" xml:space="preserve">
+    	<value>Last Name</value>
+	</data>
+	<data name="Leads_LeadContactDetail_Phone" xml:space="preserve">
+    	<value>Phone</value>
+	</data>
+	<data name="Leads_LeadContactDetail_Email" xml:space="preserve">
+    	<value>Email</value>
+	</data>
+	<data name="Leads_LeadContactDetail_Address" xml:space="preserve">
+    	<value>Address</value>
+	</data>
+	<data name="Leads_LeadContactDetail_PostalCode" xml:space="preserve">
+    	<value>Postal Code</value>
+	</data>
+	<data name="Leads_LeadContactDetail_City" xml:space="preserve">
+    	<value>City</value>
+	</data>
+	<data name="Leads_LeadContactDetail_State" xml:space="preserve">
+    	<value>State</value>
+	</data>
+	<data name="Leads_LeadContactDetail_Country" xml:space="preserve">
+    	<value>Country</value>
+	</data>
+
+
+	<data name="Sales" xml:space="preserve">
+    	<value>Sales</value>
+	</data>
+	<data name="SalesDashboard_SalesChart_Header_Title" xml:space="preserve">
+		<value>6-Week Sales</value>
+	</data>
+	<data name="SalesDashboard_SalesChart_Header_WeeklyAverageTitle" xml:space="preserve">
+		<value>Weekly Average</value>
+	</data>
+	<data name="SalesDashboard_SalesChart_LoadingLabel" xml:space="preserve">
+		<value>Loading sales data...</value>
+	</data>
+	<data name="SalesDashboard_Leads_LoadingLabel" xml:space="preserve">
+		<value>Loading leads data...</value>
+	</data>
+	<data name="SalesDashboard_SalesChart_PrimaryAxis_Title" xml:space="preserve">
+		<value>Week</value>
+	</data>
+	<data name="SalesDashboard_SalesChart_YAxis_Title" xml:space="preserve">
+		<value>Sales Total</value>
+	</data>
+
+
+	<data name="Customers_Detail_Tab_Title" xml:space="preserve">
+		<value>Customer</value>
+	</data>
+	<data name="Customers_Orders_Tab_Title" xml:space="preserve">
+		<value>Orders</value>
+	</data>
+	<data name="Customers_Sales_Tab_Title" xml:space="preserve">
+		<value>Sales</value>
+	</data>
+	<data name="Customers_Detail_Address" xml:space="preserve">
+		<value>Address</value>
+	</data>
+	<data name="Customers_Orders_NewOrder" xml:space="preserve">
+		<value>New Order</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_Save" xml:space="preserve">
+		<value>Save</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_BackButton" xml:space="preserve">
+		<value>Orders</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_CompanyTitle" xml:space="preserve">
+		<value>Company</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_NewOrderTitle" xml:space="preserve">
+		<value>New Order</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_ProductTitleLabel" xml:space="preserve">
+		<value>Product</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_PriceTitleLabel" xml:space="preserve">
+		<value>Price</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_OrderDateTitleLabel" xml:space="preserve">
+		<value>Ordered</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_DueDateTitleLabel" xml:space="preserve">
+		<value>Due</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_ClosedDateTitleLabel" xml:space="preserve">
+		<value>Delivered</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_ProductEntryPlaceholder" xml:space="preserve">
+		<value>Select a product</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_PriceEntryPlaceholder" xml:space="preserve">
+		<value>Enter a price</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_DueDateEntryPlaceholder" xml:space="preserve">
+		<value>Select a date</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_AddToOrder" xml:space="preserve">
+		<value>Add to Order</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_SaveConfirmTitle" xml:space="preserve">
+		<value>Save?</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_SaveConfirmDescription" xml:space="preserve">
+		<value>Would you like to save changes to this order?</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_ExitConfirmTitle" xml:space="preserve">
+		<value>Exit and Discard?</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_ExitConfirmDescription" xml:space="preserve">
+		<value>Would you like to exit and discard changes to this order?</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_OkayConfirmTitle" xml:space="preserve">
+		<value>Okay</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_OrderItemNotSelectedConfirmTitle" xml:space="preserve">
+		<value>Select a product</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_OrderItemNotSelectedConfirmDescription" xml:space="preserve">
+		<value>Order cannot be saved until a product is selected. Please select a product.</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_DeliverConfirmTitle" xml:space="preserve">
+		<value>Deliver?</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_DeliverConfirmDescription" xml:space="preserve">
+		<value>Delivering will finalize this order and prevent future changes. This cannot be undone. Would you like to deliver this order?</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_DeliverConfirmAffirmative" xml:space="preserve">
+		<value>Yes, Deliver</value>
+	</data>
+	<data name="Customers_Orders_EditOrder_LoadingImageLabel" xml:space="preserve">
+		<value>Loading product image...</value>
+	</data>
+	<data name="Customers_Orders_CustomerTabbedPage_BackToCustomers" xml:space="preserve">
+		<value>Back to Customers</value>
+	</data>
+	<data name="Customers_Detail_MappingDirections_LeaveApplication" xml:space="preserve">
+		<value>Would you like to leave the Xamarin CRM app and get directions?</value>
+	</data>
+	<data name="Customers_Detail_MappingDirections_LeaveApplication_Yes" xml:space="preserve">
+		<value>Yes, Leave</value>
+	</data>
+	<data name="Customers_Detail_CallDialog_Title" xml:space="preserve">
+		<value>Dial a Number</value>
+	</data>
+	<data name="Customers_Detail_CallDialog_Message" xml:space="preserve">
+		<value>Would you like to call </value>
+	</data>
+	<data name="Customers_Detail_CallDialog_Accept" xml:space="preserve">
+		<value>Yes</value>
+	</data>
+	<data name="Customers_Detail_CallDialog_Cancel" xml:space="preserve">
+		<value>No</value>
+	</data>
+	<data name="Customers_OrderOpen" xml:space="preserve">
+		<value>Open Orders</value>
+	</data>
+	<data name="Customers_OrderClosed" xml:space="preserve">
+		<value>Delivered Orders</value>
+	</data>
+	<data name="Customer_Order_Detail_Deliver_Order" xml:space="preserve">
+		<value>Deliver Order</value>
+	</data>
+	<data name="Customer_Sales_By_Category_Header" xml:space="preserve">
+		<value>6-Week Sales By Major Category</value>
+	</data>
+
+
+	<data name="Products" xml:space="preserve">
+    	<value>Products</value>
+	</data>
+	<data name="Products_CategoryList_LoadingLabel" xml:space="preserve">
+    	<value>Loading product categories...</value>
+	</data>
+	<data name="Products_ProductList_LoadingLabel" xml:space="preserve">
+    	<value>Loading products...</value>
+	</data>
+
+</root>
+

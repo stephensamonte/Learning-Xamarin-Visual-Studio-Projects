@@ -1,0 +1,16 @@
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\MyFirstFormsApp.dll
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\MyFirstFormsApp.pdb
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\Xamarin.Forms.Core.dll
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\Xamarin.Forms.Platform.dll
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\Xamarin.Forms.Core.pdb
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\Xamarin.Forms.Core.xml
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\Xamarin.Forms.Platform.pdb
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\obj\Debug\MyFirstFormsApp.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\obj\Debug\MyFirstFormsApp.csproj.CoreCompileInputs.cache
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\obj\Debug\MyFirstFormsApp.MainPage.xaml.g.cs
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\obj\Debug\MyFirstFormsApp.App.xaml.g.cs
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\obj\Debug\MyFirstFormsApp.dll
+G:\Documents\Visual Studio Projects\MyFirstFormsApp\MyFirstFormsApp\MyFirstFormsApp\obj\Debug\MyFirstFormsApp.pdb

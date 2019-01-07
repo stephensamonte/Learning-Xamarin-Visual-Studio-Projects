@@ -1,0 +1,15 @@
+﻿{
+  "dependencies": {
+    "Microsoft.Azure.Mobile.Client": "4.0.2",
+    "Microsoft.Azure.Mobile.Client.SQLiteStore": "4.0.2",
+    "Xamarin.Android.Support.Design": "26.1.0.1",
+    "Xamarin.Android.Support.v4": "26.1.0.1",
+    "Xamarin.Android.Support.v7.AppCompat": "26.1.0.1",
+    "Xamarin.Android.Support.v7.CardView": "26.1.0.1",
+    "Xamarin.Android.Support.v7.MediaRouter": "26.1.0.1",
+    "Xamarin.Forms": "2.5.0.75255-pre3"
+  },
+  "frameworks": {
+    "MonoAndroid,Version=v8.0": {}
+  }
+}

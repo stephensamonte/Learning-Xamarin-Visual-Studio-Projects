@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "Microsoft.Azure.Mobile.Client": "4.0.2",
+    "Xamarin.Forms": "2.4.0.38779"
+  },
+  "frameworks": {
+    "Xamarin.iOS,Version=v1.0": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}

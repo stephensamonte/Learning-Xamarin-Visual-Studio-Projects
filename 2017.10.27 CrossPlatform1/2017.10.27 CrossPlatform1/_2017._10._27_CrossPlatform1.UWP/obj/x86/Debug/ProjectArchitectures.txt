@@ -1,0 +1,2 @@
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.UWP\_2017._10._27_CrossPlatform1.UWP.csproj;x86
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1\_2017._10._27_CrossPlatform1.csproj;neutral

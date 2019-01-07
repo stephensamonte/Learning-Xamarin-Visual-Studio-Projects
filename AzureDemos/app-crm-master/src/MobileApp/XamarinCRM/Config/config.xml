@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>
+  <dataServiceUrl>https://xamarincrmservice.azurewebsites.net/</dataServiceUrl>
+
+  <!---Azure Active Directory Authentication tenant authority URL -->
+  <azureActiveDirectoryAuthenticationTenantAuthorityUrl>https://login.windows.net/xamcrm.onmicrosoft.com/</azureActiveDirectoryAuthenticationTenantAuthorityUrl>
+
+  <!---Azure Active Directory Authentication return URI -->
+  <azureActiveDirectoryAuthenticationReturnUri>http://localhost</azureActiveDirectoryAuthenticationReturnUri>
+
+  <!---The Azure AD-authenticated resource(s) that the app should access -->
+  <azureActiveDirectoryAuthenticationResourceUri>https://graph.windows.net</azureActiveDirectoryAuthenticationResourceUri>
+</config>

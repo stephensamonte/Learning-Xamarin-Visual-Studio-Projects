@@ -1,0 +1,13 @@
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.iOS.exe
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.iOS.pdb
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.dll
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.pdb
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\bin\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.dll.mdb
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhoneSimulator\Debug\optimized\
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.iOS.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.iOS.csproj.CoreCompileInputs.cache
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.iOS.exe
+G:\Documents\Visual Studio Projects\2017.10.27 CrossPlatform1\2017.10.27 CrossPlatform1\_2017._10._27_CrossPlatform1.iOS\obj\iPhoneSimulator\Debug\_2017._10._27_CrossPlatform1.iOS.pdb

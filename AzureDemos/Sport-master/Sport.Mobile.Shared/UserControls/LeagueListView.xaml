@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="Sport.Mobile.Shared.LeagueListView"
+	x:Name="list"
+	AutomationId="leagueList"
+	IsPullToRefreshEnabled="true"
+	BackgroundColor="{StaticResource grayLight}"
+	SeparatorVisibility="None"
+	HasUnevenRows="true"
+	xmlns:local="clr-namespace:Sport.Mobile.Shared">
+	<ListView.ItemTemplate>
+		<DataTemplate>
+			<ViewCell>
+				<ViewCell.View>
+					<AbsoluteLayout Padding="{Binding IsLast, Converter={x:Static local:LeaguePaddingValueConverter.Instance}}">
+						<StackLayout Orientation="Vertical" Spacing="0" VerticalOptions="Fill" AutomationId="noLeaguesRow"
+							AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1" Padding="30"
+								IsVisible="{Binding League, Converter={x:Static local:IsNullToBoolConverter.Instance}}">
+
+							<Label Text="{Binding EmptyMessage}" FontSize="Large" TextColor="{StaticResource grayDark}" XAlign="Center" />
+						</StackLayout>
+
+						<StackLayout Padding="0,0,.5,.5" BackgroundColor="{StaticResource grayPrimary}"
+							AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1"
+							IsVisible="{Binding League, Converter={x:Static local:IsNotNullToBoolConverter.Instance}}">
+
+							<StackLayout AutomationId="leagueRow" Orientation="Vertical" BackgroundColor="White" Spacing="0" VerticalOptions="FillAndExpand">
+								<AbsoluteLayout HeightRequest="150">
+									<Image Source="ic_missing_photo_white" AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds=".5,.5,-1,-1"
+										HeightRequest="24" WidthRequest="24" />
+									<Image x:Name="photoImage" Source="{Binding League.ImageUrl}" Aspect="AspectFill"
+										AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1" Opacity=".8" />
+
+									<local:RoundedRectangleView IsVisible="{Binding IsFirstPlace}" Padding="10" CornerRadius="10"
+										AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0,1,-1,-1"
+										FillColor="{Binding League.Theme.Light}" Opacity=".75" HeightRequest="36" WidthRequest="36">
+										<local:RoundedRectangleView.InnerContent>
+											<Image Source="ic_trophy_white" AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds=".5,.5,-1,-1"/>
+										</local:RoundedRectangleView.InnerContent>
+									</local:RoundedRectangleView>
+
+									<local:RoundedRectangleView IsVisible="{Binding HasChallenge}" Padding="10" CornerRadius="10"
+										AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="1,1,-1,-1"
+										FillColor="{Binding League.Theme.Light}" Opacity=".75" HeightRequest="36" WidthRequest="36">
+										<local:RoundedRectangleView.InnerContent>
+											<Image Source="ic_fencing_white" AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds=".5,.5,-1,-1"/>
+										</local:RoundedRectangleView.InnerContent>
+									</local:RoundedRectangleView>
+								</AbsoluteLayout>
+
+								<StackLayout Padding="16,10" Spacing="4">
+ 									<Label Text="{Binding League.Name}" FontSize="Large" TextColor="{Binding League.Theme.Dark}" VerticalOptions="CenterAndExpand" />
+									<StackLayout Spacing="4" Padding="0,10" IsVisible="{Binding League.HasStarted, Converter={x:Static local:InverseBoolConverter.Instance}}">
+										<Label Text="{Binding League.StartDate, StringFormat='This league is slated to begin on \{0:D\}'}" Style="{StaticResource sub}" />
+										<Label Text="{Binding League.MemberCount}" Style="{StaticResource sub}" />
+									</StackLayout>
+
+									<Grid Padding="0,10" MinimumHeightRequest="36" MinimumWidthRequest="44" IsVisible="{Binding IsMemberAndLeagueStarted}">
+										<Grid.ColumnDefinitions>
+											<ColumnDefinition Width="36" />
+											<ColumnDefinition Width="*" />
+										</Grid.ColumnDefinitions>
+										<Grid.RowDefinitions>
+											<RowDefinition Height="36" />
+										</Grid.RowDefinitions>
+										
+										<local:CircleView FillColor="{Binding League.Theme.Light}" TextSize="12"
+											Text="{Binding CurrentMembership.CurrentRankOrdinal}" />
+										<Label Grid.Column="1" Text="{Binding CurrentMembership.RankDescription, StringFormat='You\'ve been ranked \{0\}'}"
+											VerticalOptions="Center" Style="{StaticResource sub}" IsVisible="true" />
+									</Grid>
+
+									<ContentView IsVisible="{Binding IsNotMemberAndLeagueStarted}">
+										<Label Text="{Binding League.LeaderRankDescription}" Style="{StaticResource sub}" IsVisible="true" />
+									</ContentView>
+								</StackLayout>
+							</StackLayout>
+						</StackLayout>
+					</AbsoluteLayout>
+				</ViewCell.View>
+			</ViewCell>
+		</DataTemplate>
+	</ListView.ItemTemplate>
+</ListView>

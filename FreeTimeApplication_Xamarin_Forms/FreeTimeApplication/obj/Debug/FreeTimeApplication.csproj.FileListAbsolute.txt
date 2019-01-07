@@ -1,0 +1,7 @@
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\FreeTimeApplication\bin\Debug\FreeTimeApplication.dll
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\FreeTimeApplication\bin\Debug\FreeTimeApplication.pdb
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\FreeTimeApplication\obj\Debug\FreeTimeApplication.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\FreeTimeApplication\obj\Debug\FreeTimeApplication.csproj.CoreCompileInputs.cache
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\FreeTimeApplication\obj\Debug\FreeTimeApplication.TodoList.xaml.g.cs
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\FreeTimeApplication\obj\Debug\FreeTimeApplication.dll
+G:\Documents\Visual Studio Projects\FreeTimeApplication_Xamarin_Forms\FreeTimeApplication\obj\Debug\FreeTimeApplication.pdb

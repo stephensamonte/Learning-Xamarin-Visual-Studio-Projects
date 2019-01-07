@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "Microsoft.Azure.Mobile.Client": "4.0.2",
+    "NETStandard.Library": "2.0.1",
+    "Xamarin.Forms": "2.4.0.38779"
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "imports": "portable-win8+net45+wpa81"
+    }
+  }
+}

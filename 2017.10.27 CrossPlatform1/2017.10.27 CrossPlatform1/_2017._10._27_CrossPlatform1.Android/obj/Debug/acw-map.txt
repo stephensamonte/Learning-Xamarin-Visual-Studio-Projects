@@ -1,0 +1,4 @@
+_2017._10._27_CrossPlatform1.Droid.MainActivity, _2017._10._27_CrossPlatform1.Android;md5c0efd269f6e99a8429a77c13fe0e8660.MainActivity
+_2017._10._27_CrossPlatform1.Droid.MainActivity, _2017._10._27_CrossPlatform1.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c0efd269f6e99a8429a77c13fe0e8660.MainActivity
+_2017._10._27_CrossPlatform1.Droid.MainActivity;md5c0efd269f6e99a8429a77c13fe0e8660.MainActivity
+_2017._10._27_crossplatform1.droid.MainActivity;md5c0efd269f6e99a8429a77c13fe0e8660.MainActivity

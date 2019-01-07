@@ -1,0 +1,2 @@
+android.app.Application
+com.companyname.x_2017.x_10.x_27_CrossPlatform1

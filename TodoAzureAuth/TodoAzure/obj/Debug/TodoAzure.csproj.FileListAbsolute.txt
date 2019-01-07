@@ -1,0 +1,7 @@
+/Volumes/Stephen Tan/Documents/Visual Studio Projects/TodoAzureAuth/TodoAzure/obj/Debug/TodoAzure.csproj.App.config
+/Volumes/Stephen Tan/Documents/Visual Studio Projects/TodoAzureAuth/TodoAzure/obj/Debug/TodoAzure.csprojResolveAssemblyReference.cache
+/Volumes/Stephen Tan/Documents/Visual Studio Projects/TodoAzureAuth/TodoAzure/obj/Debug/TodoAzure.csproj.CoreCompileInputs.cache
+/Volumes/Stephen Tan/Documents/Visual Studio Projects/TodoAzureAuth/TodoAzure/obj/Debug/TodoAzure.TodoList.xaml.g.cs
+/Volumes/Stephen Tan/Documents/Visual Studio Projects/TodoAzureAuth/TodoAzure/obj/Debug/TodoAzure.LoginPage.xaml.g.cs
+/Volumes/Stephen Tan/Documents/Visual Studio Projects/TodoAzureAuth/TodoAzure/obj/Debug/TodoAzure.dll
+/Volumes/Stephen Tan/Documents/Visual Studio Projects/TodoAzureAuth/TodoAzure/obj/Debug/TodoAzure.pdb

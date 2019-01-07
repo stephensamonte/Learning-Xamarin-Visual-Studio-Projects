@@ -1,0 +1,2 @@
+G:\Documents\Visual Studio Projects\phoneword\phoneword\phoneword.UWP\phoneword.UWP.csproj;x86
+G:\Documents\Visual Studio Projects\phoneword\phoneword\phoneword\phoneword.csproj;neutral
