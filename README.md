@@ -1,5 +1,5 @@
 # Learning Xamarin Visual Studio Projects
-Xamarine Projects that I worked on while learning how to use Xamarin. 
+Xamarin Projects that I worked on while learning how to use Xamarin. 
 
 I learned how to use Xamarin because I was looking for a way to do Crossplatform development. That is program once and it works on both Android and iOS devices. I had prior experience creating Android & iOS Apps. I hated having to create the program once on Android, then another time on iOS. So, to save time regarding development and to reach a larger audience I started to research how to create a cross-platform application. 
 
