@@ -3,6 +3,9 @@ Xamarin Projects that I worked on while learning how to use Xamarin.
 
 I learned how to use Xamarin because I was looking for a way to do Crossplatform development. That is program once and it works on both Android and iOS devices. I had prior experience creating Android & iOS Apps. I hated having to create the program once on Android, then another time on iOS. So, to save time regarding development and to reach a larger audience I started to research how to create a cross-platform application. 
 
+# Environment
+- Edited in [Visual Studio](https://visualstudio.microsoft.com/) and used [Xamarin](https://visualstudio.microsoft.com/xamarin/) and [Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/)
+
 # Note
 - Date Active December 2017 - Janurary 2018
 - This was my Visual Studio Xamarin Projects as of 2017.05.10
@@ -11,6 +14,7 @@ I learned how to use Xamarin because I was looking for a way to do Crossplatform
 - After creating a few applications and sharing I was encurraged by Dan to look into Flutter (https://flutter.io/) because Xamarin forces me to use Microsoft products and services such as Azure. I left Xamarine and picked up Flutter Development. The Flutter SDK at the time was still in beta. 
 
 # References
+- Xamarin: [Website](https://visualstudio.microsoft.com/xamarin/)
 - AzureDemos Apps: [GitHub](https://github.com/Microsoft/XamarinAzure_ShoppingDemoApp)
 
 # Journal
